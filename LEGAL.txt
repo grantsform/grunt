@@ -1,0 +1,13 @@
+Grant's Bot.
+
+Copyright (c) 2026, Joshua Steven Grant (ie: Jost Grant)
+
+This project is dual-licensed under the MIT and/or BSD-2 Clause License, at your option.
+
+
+
+=Exception(s)=
+
+Grunt's logo is an amalgamation of & edits made to assets that are part of the Twemoji Project,
+(specifically we're using the default baby 👶 and melting-face 🫠 emoji). As-such it is, like its
+parent under the CC-BY 4.0 License. https://github.com/twitter/twemoji?tab=readme-ov-file#license
